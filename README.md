@@ -1,4 +1,11 @@
-  <img src="https://github.com/JBrusco27/JBrusco27/blob/main/bg1gh.jpg" width="100%"/>
+  
+<a href="https://komarev.com/ghpvc/?username=JBrusco27">
+  <img align="right" src="https://komarev.com/ghpvc/?username=JBrusco27&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/1febc97f-e0f2-40d7-8258-4aaa9a81c2c2.svg)](https://wakatime.com/@1febc97f-e0f2-40d7-8258-4aaa9a81c2c2)
+
+<img src="https://github.com/JBrusco27/JBrusco27/blob/main/bg1gh.jpg" width="100%"/>
 
 ###
 
@@ -10,37 +17,43 @@
 
 ###
 
-<h2 align="center">🔰 My stack 🔰</h2>
+## My stack and Tools
 
-###
+![Angular](https://img.shields.io/badge/-Angular-EF2922?style=for-the-badge&labelColor=black&logo=angular&logoColor=EF1D0D)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=000000)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=0078d7&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=000000)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
+<br/>
+<hr/>
+<br/>
 
-###
+<p align="center">
+  <a href="https://github.com/JBrusco27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JBrusco27&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
-<h2 align="center">⚙️ Stats ⚙️</h2>
+<p align="center">
+  <a href="https://github.com/JBrusco27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JBrusco27&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
-###
+<a> 
+    <a href="https://github.com/JBrusco27"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JBrusco27&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/JBrusco27"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JBrusco27&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JBrusco27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBrusco27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+![Joaquin Graph](https://github-readme-activity-graph.vercel.app/graph?username=JBrusco27&custom_title=Joaquin%20Brusco%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
