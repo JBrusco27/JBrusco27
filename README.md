@@ -5,15 +5,15 @@
 
 [![wakatime](https://wakatime.com/badge/user/1febc97f-e0f2-40d7-8258-4aaa9a81c2c2.svg)](https://wakatime.com/@1febc97f-e0f2-40d7-8258-4aaa9a81c2c2)
 
-<img src="https://github.com/JBrusco27/JBrusco27/blob/main/bg1gh.jpg" width="100%"/>
+<img src="https://github.com/JBrusco27/JBrusco27/blob/main/bg1gh.png" width="100%"/>
 
 ###
 
-<h2 align="center">Hello, World!</h2>
+<h2 align="center">Here, Joaquin</h2>
 
 ###
 
-<p align="center">I'm Joaquin, a Fullstack Developer specializing in Angular 16+ and NodeJS/NestJS, passionate about clean code and efficient solutions. With over 4 years of hands-on experience, I continually strive to improve and achieve my objectives every day.<br><br>I hold a Bachelor’s degree in Computer Science, where I focused on Web Development and gained a strong foundation in programming.<br><br>Let's connect and create something extraordinary together! 🌟</p>
+<p align="center">I'm a Fullstack Developer specializing in Angular 16+ and NodeJS/NestJS, passionate about clean code and efficient solutions. With over 4 years of hands-on experience, I continually strive to improve and achieve my objectives every day.<br><br>I hold a Bachelor’s degree in Computer Science, where I focused on Web Development and gained a strong foundation in programming.<br><br>Let's connect and create something extraordinary together! 🌟</p>
 
 ###
 
