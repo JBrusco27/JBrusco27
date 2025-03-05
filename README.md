@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">A Fullstack Developer specializing in Angular 16+ and NodeJS/NestJS, passionate about clean code and efficient solutions. With over 4 years of hands-on experience, I continually strive to improve and achieve my objectives every day.<br><br>I hold a Bachelor’s degree in Computer Science, where I focused on Web Development and gained a strong foundation in programming.<br><br>Let's connect and create something extraordinary together! 🌟</p>
+<p align="center">A Fullstack Developer specializing in Angular 16+ and NodeJS/NestJS, passionate about clean code and efficient solutions. With over 3 years of hands-on experience, I continually strive to improve and achieve my objectives every day.<br><br>I hold a Bachelor’s degree in Computer Science, where I focused on Web Development and gained a strong foundation in programming.<br><br>Let's connect and create something extraordinary together! 🌟</p>
 
 ###
 
